@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="cmdb_ci_ec2_instance">
+    <cmdb_ci_ec2_instance action="INSERT_OR_UPDATE">
+        <account_id>128416897356</account_id>
+        <asset display_value="Unknown">af954758db671f00c57e28f3ca9619bf</asset>
+        <asset_tag/>
+        <assigned/>
+        <assigned_to/>
+        <assignment_group/>
+        <attributes/>
+        <availability_zone display_value="us-west-2a">f455b33b13aa6a00dd80b4622244b06c</availability_zone>
+        <can_print>false</can_print>
+        <category>ami-a9d09ed1</category>
+        <change/>
+        <change_control/>
+        <checked_in/>
+        <checked_out/>
+        <cmp_provider/>
+        <comments/>
+        <company/>
+        <correlation_id>i-03fbb34cb85d847ec</correlation_id>
+        <cost/>
+        <cost_cc>USD</cost_cc>
+        <cost_center/>
+        <cpus/>
+        <delivery_date/>
+        <department/>
+        <discovery_source/>
+        <disks/>
+        <disks_size/>
+        <dns_domain>us-west-2.compute.amazonaws.com</dns_domain>
+        <due/>
+        <due_in/>
+        <fault_count>0</fault_count>
+        <first_discovered/>
+        <fqdn/>
+        <gl_account/>
+        <install_date/>
+        <install_status>1</install_status>
+        <invoice_number/>
+        <ip_address>54.244.174.179</ip_address>
+        <justification/>
+        <key_pair display_value="utSCPair2">3cd4c318dbe31f00504a0f95ca9619e6</key_pair>
+        <last_discovered/>
+        <lease_end/>
+        <lease_id/>
+        <lease_start/>
+        <location/>
+        <mac_address/>
+        <maintenance_schedule/>
+        <managed_by/>
+        <manufacturer display_value="Amazon">adb3d8ce37413000158bbfc8bcbe5d15</manufacturer>
+        <memory/>
+        <model_id display_value="Unknown">c0254a5c1372aa00dd80b4622244b016</model_id>
+        <model_number/>
+        <monitor>false</monitor>
+        <name>MID Server</name>
+        <nics/>
+        <object_id>i-03fbb34cb85d847ec</object_id>
+        <operational_status>1</operational_status>
+        <order_date/>
+        <owned_by/>
+        <po_number/>
+        <private_ip_address>10.8.0.186</private_ip_address>
+        <purchase_date/>
+        <region display_value="US-West (Oregon) Region">4a0199609f022100fbf01f80a57fcf32</region>
+        <root_device_name>/dev/xvda</root_device_name>
+        <root_device_type>ebs</root_device_type>
+        <schedule/>
+        <serial_number/>
+        <server/>
+        <short_description/>
+        <size display_value="T2 Micro">6723cf52d71321002bb9af728e610360</size>
+        <skip_sync>false</skip_sync>
+        <stage/>
+        <start_date/>
+        <state>on</state>
+        <subcategory/>
+        <subnet_id display_value="subnet-08a90743">3319efe513b11f00dd80b4622244b0ce</subnet_id>
+        <support_group/>
+        <supported_by/>
+        <sys_class_name>cmdb_ci_ec2_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-07-23 07:06:39</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>6f954758db671f00c57e28f3ca9619bd</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>MID Server</sys_name>
+        <sys_package display_value="CreateNotes" source="x_snc_createnotes">df5fd9a5090232007f44e1046c8ff69f</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</sys_scope>
+        <sys_update_name>cmdb_ci_ec2_instance_6f954758db671f00c57e28f3ca9619bd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-07-23 07:09:10</sys_updated_on>
+        <terminated_on/>
+        <termination_protection>false</termination_protection>
+        <unverified>false</unverified>
+        <used_for/>
+        <vendor/>
+        <virtualization_provider/>
+        <vm_inst_id/>
+        <vpc_id display_value="vpc-49163430">1cb8e3a513b11f00dd80b4622244b0f5</vpc_id>
+        <warranty_expiration/>
+    </cmdb_ci_ec2_instance>
+</record_update>
